@@ -1,11 +1,11 @@
 <b>Objective:</b>
 The goal of this data analysis is to provide valuable insights into employee-related metrics to support HR decision-making and strategic planning.
 
-Key Findings:
+<b>Key Findings:</b>
 
-Attrition Analysis:
+</b>Attrition Analysis:</b>
 
-Identified the overall attrition rate.
+<b>Identified the overall attrition rate.</b>
 Explored factors contributing to attrition, such as age group, job role, and satisfaction levels.
 Visualized attrition trends over time.
 Demographic Overview:
@@ -36,6 +36,6 @@ Recommendations:
 
 Provided actionable insights for HR strategies, such as targeted retention programs, training initiatives, and improving work satisfaction.
 Suggested areas for further investigation or focus based on identified trends.
-Conclusion:
 
+<b><u>Conclusion:</u></b>
 The data analysis provides a comprehensive understanding of the employee landscape, enabling HR to make informed decisions to enhance employee satisfaction, retention, and overall organizational performance.
